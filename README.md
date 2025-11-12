@@ -47,3 +47,6 @@ ReguData/
 - Add advanced visualizations (boxplots, scatter matrices)
 - Integrate machine learning insights (regression, clustering)
 - Expand export options (PDF, HTML reports)
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
